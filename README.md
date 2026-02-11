@@ -1,16 +1,27 @@
-## Hi there 👋
+# <a href="[https://www.linkedin.com/in/bryson-g-williams/]">Bryson William</a>'s IT and Cybersecurity Project Portfolio 🔐
+
+I'm passionate about cybersecurity and love tackling challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to get hands-on experience to the ever-evolving landscape of cybersecurity. Please feel free to check them out!
+
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation]()**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)]()**
+
+<hr/>
+
+## 🤳 Connect With Me
+
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/bryson-g-williams/
 
 <!--
-**BrysonW/BrysonW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
